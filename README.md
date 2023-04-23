@@ -1,2 +1,2 @@
 # Hospital-Management-System
-Hospital Management System using Python
+Hospital Management System using Java
